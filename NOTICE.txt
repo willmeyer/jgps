@@ -1,0 +1,1 @@
+NMEA parsing is a modified version of the Alipes NMEA0183 parser, http://www.teilo.net/software/NMEA0183Parser/javadoc/
